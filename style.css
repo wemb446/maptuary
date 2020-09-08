@@ -1,0 +1,8 @@
+.land {
+    fill: #666;
+    stroke: #FFF
+}
+
+.land:hover {
+    fill: #000;
+}
